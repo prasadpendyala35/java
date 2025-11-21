@@ -3,7 +3,7 @@
 Welcome to my personal Java learning journey!  
 This repository tracks my progress — from mastering the basics to exploring advanced Java topics.
 
-## 🚶‍♂️ Learning Path
+## 🚶‍♂️ Learning Path...
 
 ### 1. Core Java (Fundamentals)
 Starting with the essentials — getting comfortable with the core building blocks of Java.
